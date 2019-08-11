@@ -6,6 +6,7 @@ Config.AdvancedMedical = true -- enable AdvancedMecical? More Indepth Medical tr
 
 Config.ESXEnabled = true
 Config.ESXJobWhitlisted = false
+Config.pNotify = true
 
 
 
