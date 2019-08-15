@@ -2,7 +2,7 @@ Config = {}
 
 Config.Locale = 'en'
 
-Config.AdvancedMedical = true -- enable AdvancedMecical? More Indepth Medical treatment Required for use
+Config.AdvancedMedical = false -- enable AdvancedMecical? More Indepth Medical treatment Required for use
 
 Config.ESXEnabled = true
 Config.ESXJobWhitlisted = false
